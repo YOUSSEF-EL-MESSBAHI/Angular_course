@@ -1,0 +1,2 @@
+ng new ProjectName
+ng new ProjectName --no-standalone
